@@ -21,6 +21,8 @@ _____________________________
 
 ## Machine Learning:
 ### Regression:
+- [Predicting houses price](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Predicting-houses-price).
+- [Which Debts are Worth the Bank's Effort](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Which-Debts-Are-Worth-the-Bank-s-Effort).
 
 ### Classification:
 - [Human Activity Recognition](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Human-Activity-Recognition).
