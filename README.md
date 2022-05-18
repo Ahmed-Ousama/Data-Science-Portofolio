@@ -20,11 +20,11 @@ ______________________________
 _____________________________
 
 ## Machine Learning:
-### Regression:
+#### Regression:
 - [Predicting houses price](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Predicting-houses-price).
 - [Which Debts are Worth the Bank's Effort](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Regression/Which-Debts-Are-Worth-the-Bank-s-Effort).
 
-### Classification:
+#### Classification:
 - [Human Activity Recognition](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Human-Activity-Recognition).
 - [Predicting Credit Card Approvals](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-Credit-Card-Approvals).
 - [Applying SVM to classify Wine color](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Applying-SVM-to-classify-Wine-color).
@@ -33,10 +33,10 @@ _____________________________
 - [Predicting Blood Donations using TPOT](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-Blood-Donations-using-TPOT).
 - [Predicting human activity using Boosting and Stacking](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-human-activity-using-Boosting-and-Stacking).
 
-### Clustering:
+#### Clustering:
 - [Mall Customer Segmentation Data](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Mall-Customer-Segmentation-Data).
 
-### Recommendation Systems:
+#### Recommendation Systems:
 - [Movie Recommendation-Content-Based Filtering](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Recommendation%20Systems/Movie-Recommendation---Content-Based-Filtering).
 - [Movie Recommendation-Collaborative Filtering](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Recommendation%20Systems/Movie-Recommendation--Collaborative-Filtering-mai).
 
