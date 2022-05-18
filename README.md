@@ -31,6 +31,7 @@ _____________________________
 - [Predicting Blood Donations using TPOT](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-Blood-Donations-using-TPOT).
 - [Predicting human activity using Boosting and Stacking](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-human-activity-using-Boosting-and-Stacking).
 ### Clustering:
+- [Mall Customer Segmentation Data](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Mall-Customer-Segmentation-Data).
 
 ___________________________
 ## Data Analysis:
