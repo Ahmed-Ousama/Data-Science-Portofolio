@@ -23,3 +23,16 @@ _____________________________
 ### Regression:
 ### Classification:
 ### Clustering:
+
+___________________________
+## Data Analysis:
+- [A Visual History of Nobel Prize Winners](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/A-Visual-History-of-Nobel-Prize-Winners).
+- [Amazon financial data extraction](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Amazon-financial-data-extraction).
+- [Apple finance data extraction](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Apple-finance-data-extraction).
+- [Bitcoin CoinGecko API](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Bitcoin-CoinGecko-AP).
+- [Explore US Bikeshare Data](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Explore-US-Bikeshare-Data).
+- [Extracting and Visualizing Tesla Stock Data](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Extracting-and-Visualizing-Tesla-Stock-Data).
+- [House Sales in King County USA EDA](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/House-Sales-in-King-County-USA-EDA).
+- [Investigating Netflix Movies and Guest Stars in The Office](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Investigating-Netflix-Movies-and-Guest-Stars-in-The-Office).
+- [TMDb movie data Udacity](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/TMDb-movie-data-Udacity).
+- [The Android App Market on Google Play](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/The-Android-App-Market-on-Google-Play).
