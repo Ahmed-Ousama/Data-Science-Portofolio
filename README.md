@@ -4,9 +4,7 @@ ______________________________
 
 
 ## Computer Vision Projects:
- <a href="(https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Computer%20Vision/Blob-Detection)">Blob-Detection</a>
 
 
-T[Blob-Detection](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Computer%20Vision/Blob-Detection)
-
-https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Computer%20Vision/Blob-Detection
+[Blob-Detection](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Computer%20Vision/Blob-Detection)
+[Distance calculation between an object and a point](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Computer%20Vision/Distance-calculation-between-an-object-and-a-point-main).
