@@ -30,9 +30,13 @@ _____________________________
 - [Wine Quality using decision tree](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Wine-Quality-using-decision-tree).
 - [Predicting Blood Donations using TPOT](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-Blood-Donations-using-TPOT).
 - [Predicting human activity using Boosting and Stacking](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-human-activity-using-Boosting-and-Stacking).
+
 ### Clustering:
 - [Mall Customer Segmentation Data](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Mall-Customer-Segmentation-Data).
-- ### Recommendation Systems:
+
+### Recommendation Systems:
+- [Movie Recommendation-Content-Based Filtering](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Recommendation%20Systems/Movie-Recommendation---Content-Based-Filtering).
+- [Movie Recommendation-Collaborative Filtering](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Recommendation%20Systems/Movie-Recommendation--Collaborative-Filtering-mai).
 
 ___________________________
 ## Data Analysis:
