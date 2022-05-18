@@ -46,7 +46,7 @@ ___________________________
 ## Natural language processing NLP:
 - [Twitter Sentiment_Analysis](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Natural%20language%20processing%20NLP/Sentiment_Analysis).
 ___________________________
-##Sequence Model:
+## Sequence Model:
 - [Analyzing IBM Stock data using NY Stock Exchange](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Sequence%20Model/Analyzing-IBM-Stock-data-using-NY-Stock-Exchange).
 ___________________________
 ## Data Analysis:
