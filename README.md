@@ -47,7 +47,7 @@ ___________________________
 - [Twitter Sentiment_Analysis](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Natural%20language%20processing%20NLP/Sentiment_Analysis).
 ___________________________
 ## Sequence Model:
-- [Analyzing IBM Stock data using NY Stock Exchange](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Sequence%20Model/Analyzing-IBM-Stock-data-using-NY-Stock-Exchange).
+- [Analyzing IBM Stock data using NY Stock Exchange Using LSTM](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Sequence%20Model/Analyzing-IBM-Stock-data-using-NY-Stock-Exchange).
 ___________________________
 ## Data Analysis:
 - [A Visual History of Nobel Prize Winners](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/A-Visual-History-of-Nobel-Prize-Winners).
