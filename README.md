@@ -23,7 +23,11 @@ _____________________________
 ### Regression:
 
 ### Classification:
-- [Ahmed-Ousama/Human-Activity-Recognition](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Human-Activity-Recognition).
+- [Human Activity Recognition](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Human-Activity-Recognition).
+- [Predicting Credit Card Approvals](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-Credit-Card-Approvals).
+- [Applying SVM to classify Wine color](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Applying-SVM-to-classify-Wine-color).
+- [Predicting churn value](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Classification/Predicting-churn-value-main).
+- []().
 ### Clustering:
 
 ___________________________
