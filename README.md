@@ -41,6 +41,9 @@ _____________________________
 - [Movie Recommendation-Collaborative Filtering](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Machine%20Learning/Recommendation%20Systems/Movie-Recommendation--Collaborative-Filtering-mai).
 
 ___________________________
+## Natural language processing NLP:
+- [Twitter Sentiment_Analysis](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Natural%20language%20processing%20NLP/Sentiment_Analysis).
+___________________________
 ## Data Analysis:
 - [A Visual History of Nobel Prize Winners](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/A-Visual-History-of-Nobel-Prize-Winners).
 - [Amazon financial data extraction](https://github.com/Ahmed-Ousama/Data-Science-Portofolio/tree/main/Data%20Analysis/Amazon-financial-data-extraction).
