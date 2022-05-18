@@ -20,4 +20,6 @@ ______________________________
 _____________________________
 
 ## Machine Learning:
-### Regresson:
+### Regression:
+### Classification:
+### Clustering:
